@@ -12,3 +12,4 @@ G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada for
 G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\desafio-forearch-if-elseif-else.pdb
 G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\desafio-forearch-if-elseif-else.genruntimeconfig.cache
 G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\ref\desafio-forearch-if-elseif-else.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\desafio-forearch-if-elseif-else.sourcelink.json
