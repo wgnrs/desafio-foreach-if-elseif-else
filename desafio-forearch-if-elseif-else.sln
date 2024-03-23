@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "desafio-forearch-if-elseif-else", "desafio-forearch-if-elseif-else.csproj", "{99D3573F-7F86-4CA3-BD32-FC22CD762133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D3573F-7F86-4CA3-BD32-FC22CD762133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D3573F-7F86-4CA3-BD32-FC22CD762133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D3573F-7F86-4CA3-BD32-FC22CD762133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D3573F-7F86-4CA3-BD32-FC22CD762133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A93653-B371-4E93-9B0B-4A9A853C6243}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\bin\Debug\net8.0\desafio-forearch-if-elseif-else.exe
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\bin\Debug\net8.0\desafio-forearch-if-elseif-else.deps.json
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\bin\Debug\net8.0\desafio-forearch-if-elseif-else.runtimeconfig.json
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\bin\Debug\net8.0\desafio-forearch-if-elseif-else.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\bin\Debug\net8.0\desafio-forearch-if-elseif-else.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\desafio-forearch-if-elseif-else.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\desafio-forearch-if-elseif-else.AssemblyInfoInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\desafio-forearch-if-elseif-else.AssemblyInfo.cs
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\desafio-forearch-if-elseif-else.csproj.CoreCompileInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\desafio-forearch-if-elseif-else.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\refint\desafio-forearch-if-elseif-else.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\desafio-forearch-if-elseif-else.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\desafio-forearch-if-elseif-else.genruntimeconfig.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 2\Desafio Matriz e estrutura aninhada foreach e if\desafio-forearch-if-elseif-else\obj\Debug\net8.0\ref\desafio-forearch-if-elseif-else.dll
